@@ -11,6 +11,16 @@ description: >-
 
 #### Tools
 
+* Bash
+* Netcat
+* Nmap
+* Wireshark
+* BurpSuite
+* Metasploit
+* Hash Cracking
+* OSINT
+* Python Scripts
+
 #### Tips & Tricks
 
 * Network
