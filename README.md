@@ -12,8 +12,9 @@ description: >-
 #### Tools
 
 * Bash
-* Netcat
+* [fping](offensive-security/fping.md)
 * [Nmap](offensive-security/nmap.md)
+* Netcat
 * Wireshark
 * BurpSuite
 * Metasploit
