@@ -5,6 +5,7 @@
 ## Offensive Security
 
 * [Offensive Security (RedTeam) Directory](offensive-security/offensive-security-redteam-directory.md)
+* [Nmap](offensive-security/nmap.md)
 
 ## Defensive Security
 
