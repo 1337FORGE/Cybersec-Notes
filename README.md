@@ -13,7 +13,7 @@ description: >-
 
 * Bash
 * Netcat
-* Nmap
+* [Nmap](offensive-security/nmap.md)
 * Wireshark
 * BurpSuite
 * Metasploit
