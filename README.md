@@ -11,8 +11,8 @@ description: >-
 
 #### Tools
 
-* Bash
-* [fping](offensive-security/fping.md)
+* Command Line Utilities (CMD & Bash)
+* [Fping](offensive-security/fping.md)
 * [Nmap](offensive-security/nmap.md)
 * Netcat
 * Wireshark
@@ -57,3 +57,11 @@ description: >-
 * Databases
 * Forms and Entries
 * APIs
+
+### Automation
+
+#### Bash Scripting
+
+#### Python
+
+### [Report Writing](broken-reference)
