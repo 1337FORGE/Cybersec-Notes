@@ -1,5 +1,0 @@
-# Offensive Security (RedTeam) Directory
-
-
-
-####

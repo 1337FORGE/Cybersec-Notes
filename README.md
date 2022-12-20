@@ -7,7 +7,11 @@ description: >-
 
 # Sacred Notes
 
-### [Offensive Security (RedTeam)](offensive-security/offensive-security-redteam-directory.md)
+### Updates
+
+Listed items without links are my next-to-do things. Regularly updated.
+
+### Offensive Security (RedTeam)
 
 #### Tools
 
@@ -29,7 +33,7 @@ description: >-
 * APIs
 * Physical
 
-### [Defensive Security (BlueTeam)](defensive-security/defensive-security-blueteam-directory.md)
+### Defensive Security (BlueTeam)
 
 #### Linux
 
@@ -40,6 +44,7 @@ description: >-
 
 #### Windows
 
+* Administrative Commands
 * Services
 * Configuration
 * Event Analysis
@@ -64,4 +69,4 @@ description: >-
 
 #### Python
 
-### [Report Writing](broken-reference)
+### Reports & Contracts

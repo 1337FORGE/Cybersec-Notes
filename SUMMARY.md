@@ -4,19 +4,19 @@
 
 ## Offensive Security
 
-* [Offensive Security (RedTeam) Directory](offensive-security/offensive-security-redteam-directory.md)
 * [Command Line Utilities (CMD & Bash)](offensive-security/command-line-utilities.md)
 * [Fping](offensive-security/fping.md)
 * [Nmap](offensive-security/nmap.md)
 
 ## Defensive Security
 
-* [Defensive Security (BlueTeam) Directory](defensive-security/defensive-security-blueteam-directory.md)
+* [Linux](defensive-security/linux.md)
 
 ## Automation
 
-* [Automation Directory](automation/automation-directory.md)
+* [Bash Scripting](automation/bash-scripting.md)
+* [Python](automation/python.md)
 
-## Report Writing
+## Reports & Contracts <a href="#ceports-and-contracts" id="ceports-and-contracts"></a>
 
-* [Report Writing Directory](report-writing/report-writing-directory.md)
+* [Bug Bounty Report Writing](ceports-and-contracts/bug-bounty-report-writing.md)

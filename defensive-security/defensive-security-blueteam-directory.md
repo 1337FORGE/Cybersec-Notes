@@ -1,2 +1,0 @@
-# Defensive Security (BlueTeam) Directory
-
