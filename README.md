@@ -35,7 +35,7 @@ description: >-
 
 * Services
 * Configuration
-* Even Analysis
+* Event Analysis
 * Log Analysis
 
 #### Windows
