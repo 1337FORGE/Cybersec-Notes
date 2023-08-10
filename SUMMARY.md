@@ -7,6 +7,7 @@
 * [Command Line Utilities (CMD & Bash)](offensive-security/command-line-utilities.md)
 * [Fping](offensive-security/fping.md)
 * [Nmap](offensive-security/nmap.md)
+* [Eyewitness](offensive-security/eyewitness.md)
 
 ## Defensive Security
 
