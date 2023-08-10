@@ -25,6 +25,7 @@ Listed items without links are my next-to-do things. Regularly updated.
 * Hash Cracking
 * OSINT
 * Python Scripts
+* Eyewitness
 
 #### Tips & Tricks
 
