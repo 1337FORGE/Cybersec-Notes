@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Sacred Notes](README.md)
+* [Cybersecurity Notes](README.md)
 
 ## Offensive Security
 
